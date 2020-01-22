@@ -1,0 +1,9 @@
+Anggota Kelompok :
+- Ichlasul Amal
+- Alfi
+- Rafif 
+- Timothy
+
+Minggu 1 : Belajar Git, Github dan HTML
+Minggu 2 : Belajar CSS
+Minggu 3 : Belajar JS
