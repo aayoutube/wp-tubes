@@ -7,3 +7,5 @@ Anggota Kelompok :
 Minggu 1 : Belajar Git, Github dan HTML
 Minggu 2 : Belajar CSS
 Minggu 3 : Belajar JS
+Minggu 4 : Belajar BOOTSTRAP, JSON & JQUERY
+Minggu 5 : Belajar PHP Dasar
